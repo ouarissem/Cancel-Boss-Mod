@@ -1,6 +1,0 @@
-Items: {
-	CancelBossItem: {
-		DisplayName: Cancel Boss
-		Tooltip: Cancels any active boss instantly.
-	}
-}

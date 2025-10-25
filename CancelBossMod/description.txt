@@ -1,2 +1,0 @@
-Adds an item "Cancel Boss" that despawns any active boss.
-Recipe: 2 Iron Bars or Lead Bars + 10 Stone Blocks.

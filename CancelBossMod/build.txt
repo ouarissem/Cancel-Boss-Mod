@@ -1,3 +1,0 @@
-displayName = Cancel Boss Mod
-author = Ouarissem
-version = 1.2
