@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.bak
+*.ncb
+*.aps
+*.pdb
+*.obj
+*.exe
+*.dll
+# Build directories
+bin/
+obj/
+# User preferences
+*.sln.docstates
+# Temporary files
+*.tmp
+*.temp
+# Terraria mod-specific directories and files
+Mods/
+Backup/
