@@ -37,7 +37,7 @@ namespace CancelBossMod.Items
                 }
             }
 
-            Main.NewText("⚡ Boss cancelled!", 255, 50, 50);
+            Main.NewText(" Boss cancelled!", 255, 50, 50);
             return true;
         }
     }
